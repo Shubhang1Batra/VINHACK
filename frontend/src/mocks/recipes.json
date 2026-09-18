@@ -1,0 +1,283 @@
+[
+  {
+    "id": "r001",
+    "title": "Jeera Rice",
+    "timeMinutes": 20,
+    "price": 45,
+    "currency": "INR",
+    "seasonal": false,
+    "isContestEntry": false,
+    "story": "Jeera rice is the quiet side dish that shows up at every family table. Toasted cumin in ghee is the whole story: warmth, aroma, and rice that actually tastes like something.",
+    "ingredients": [
+      {"name":"Rice","quantity":1,"unit":"cup","price":18},
+      {"name":"Cumin Seeds","quantity":1,"unit":"tsp","price":8},
+      {"name":"Ghee","quantity":1,"unit":"tbsp","price":16},
+      {"name":"Salt","quantity":0.5,"unit":"tsp","price":3}
+    ],
+    "steps":["Wash rice.","Heat ghee and cumin.","Add rice and water.","Cook until done."]
+  },
+  {
+    "id": "r002",
+    "title": "Lemon Rice",
+    "timeMinutes": 20,
+    "price": 38,
+    "currency": "INR",
+    "seasonal": true,
+    "isContestEntry": false,
+    "story": "South Indian leftover magic: yesterday's rice, today's lemon, a crackle of mustard seeds. Bright enough for a weekday lunch box.",
+    "creatorName": "Amma's Tiffin",
+    "creatorLink": "https://example.com/ammas-tiffin",
+    "orderLinks": [
+      {"label": "Website", "url": "https://example.com/ammas-tiffin"}
+    ],
+    "ingredients": [
+      {"name":"Rice","quantity":1,"unit":"cup","price":18},
+      {"name":"Lemon","quantity":1,"unit":"piece","price":8},
+      {"name":"Mustard Seeds","quantity":1,"unit":"tsp","price":4},
+      {"name":"Cooking Oil","quantity":1,"unit":"tbsp","price":5},
+      {"name":"Salt","quantity":0.5,"unit":"tsp","price":3}
+    ],
+    "steps":["Cook rice.","Temper mustard seeds.","Mix with lemon juice and rice."]
+  },
+  {
+    "id": "r003",
+    "title": "Tomato Rice",
+    "timeMinutes": 25,
+    "price": 52,
+    "currency": "INR",
+    "seasonal": true,
+    "isContestEntry": false,
+    "story": "When tomatoes are cheap and loud, this is what we cook. The rice drinks the masala; the kitchen smells like lunch before the timer rings.",
+    "ingredients": [
+      {"name":"Rice","quantity":1,"unit":"cup","price":18},
+      {"name":"Tomato","quantity":2,"unit":"piece","price":12},
+      {"name":"Onion","quantity":1,"unit":"piece","price":8},
+      {"name":"Cooking Oil","quantity":1,"unit":"tbsp","price":5},
+      {"name":"Turmeric Powder","quantity":0.5,"unit":"tsp","price":6},
+      {"name":"Salt","quantity":0.5,"unit":"tsp","price":3}
+    ],
+    "steps":["Cook rice.","Cook onion and tomato.","Mix spices and rice."]
+  },
+  {
+    "id": "r004",
+    "title": "Aloo Jeera",
+    "timeMinutes": 20,
+    "price": 40,
+    "currency": "INR",
+    "seasonal": false,
+    "isContestEntry": false,
+    "story": "Potatoes, cumin, patience. Aloo jeera does not try to impress anyone and somehow still disappears first.",
+    "ingredients": [
+      {"name":"Potato","quantity":3,"unit":"piece","price":18},
+      {"name":"Cumin Seeds","quantity":1,"unit":"tsp","price":8},
+      {"name":"Cooking Oil","quantity":1,"unit":"tbsp","price":5},
+      {"name":"Salt","quantity":0.5,"unit":"tsp","price":3},
+      {"name":"Turmeric Powder","quantity":0.5,"unit":"tsp","price":6}
+    ],
+    "steps":["Boil potatoes.","Cook cumin.","Add potatoes and spices."]
+  },
+  {
+    "id": "r005",
+    "title": "Masala Potato Fry",
+    "timeMinutes": 25,
+    "price": 42,
+    "currency": "INR",
+    "seasonal": false,
+    "isContestEntry": false,
+    "story": "Crispy edges, chilli heat, and the sound of a steel spatula on a hot tawa. This is after-school food.",
+    "ingredients": [
+      {"name":"Potato","quantity":3,"unit":"piece","price":18},
+      {"name":"Red Chilli Powder","quantity":0.5,"unit":"tsp","price":8},
+      {"name":"Turmeric Powder","quantity":0.5,"unit":"tsp","price":6},
+      {"name":"Cooking Oil","quantity":1,"unit":"tbsp","price":5},
+      {"name":"Salt","quantity":0.5,"unit":"tsp","price":5}
+    ],
+    "steps":["Slice potatoes.","Fry with spices.","Cook until crispy."]
+  },
+  {
+    "id": "r006",
+    "title": "Paneer Bhurji",
+    "timeMinutes": 20,
+    "price": 120,
+    "currency": "INR",
+    "seasonal": true,
+    "isContestEntry": true,
+    "story": "Scrambled paneer for nights when you want protein and comfort in the same pan. Street-stall energy, home-kitchen pace.",
+    "creatorName": "Bhurji House",
+    "videoUrl": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+    "orderLinks": [
+      {"label": "Zomato", "url": "https://www.zomato.com"},
+      {"label": "Swiggy", "url": "https://www.swiggy.com"},
+      {"label": "Website", "url": "https://example.com/bhurji-house"}
+    ],
+    "ingredients": [
+      {"name":"Paneer","quantity":200,"unit":"g","price":76},
+      {"name":"Tomato","quantity":1,"unit":"piece","price":8},
+      {"name":"Onion","quantity":1,"unit":"piece","price":8},
+      {"name":"Turmeric Powder","quantity":0.5,"unit":"tsp","price":6},
+      {"name":"Salt","quantity":0.5,"unit":"tsp","price":4},
+      {"name":"Cooking Oil","quantity":1,"unit":"tbsp","price":18}
+    ],
+    "steps":["Cook onion.","Add tomato.","Mix crumbled paneer and spices."]
+  },
+  {
+    "id": "r007",
+    "title": "Tofu Stir Fry",
+    "timeMinutes": 15,
+    "price": 95,
+    "currency": "INR",
+    "seasonal": true,
+    "isContestEntry": true,
+    "story": "A fast weeknight pan: garlic, chilli, tofu. Built for people who already have a block of tofu and ten minutes.",
+    "creatorName": "Green Wok",
+    "orderLinks": [
+      {"label": "Website", "url": "https://example.com/green-wok"}
+    ],
+    "ingredients": [
+      {"name":"Tofu","quantity":200,"unit":"g","price":56},
+      {"name":"Garlic","quantity":3,"unit":"cloves","price":12},
+      {"name":"Green Chilli","quantity":1,"unit":"piece","price":8},
+      {"name":"Cooking Oil","quantity":1,"unit":"tbsp","price":12},
+      {"name":"Salt","quantity":0.5,"unit":"tsp","price":7}
+    ],
+    "steps":["Fry garlic.","Add tofu.","Season and cook."]
+  },
+  {
+    "id": "r008",
+    "title": "Curd Rice",
+    "timeMinutes": 10,
+    "price": 35,
+    "currency": "INR",
+    "seasonal": false,
+    "isContestEntry": false,
+    "story": "The cool-down meal. Soft rice, cold curd, a pinch of salt. This is what you eat when the day has been too much.",
+    "ingredients": [
+      {"name":"Rice","quantity":1,"unit":"cup","price":18},
+      {"name":"Curd","quantity":0.5,"unit":"cup","price":14},
+      {"name":"Salt","quantity":0.5,"unit":"tsp","price":3}
+    ],
+    "steps":["Mix cooked rice with curd.","Add salt."]
+  },
+  {
+    "id": "r009",
+    "title": "Garlic Rice",
+    "timeMinutes": 18,
+    "price": 40,
+    "currency": "INR",
+    "seasonal": false,
+    "isContestEntry": false,
+    "story": "Four cloves is not a suggestion. Garlic rice is for people who want the whole kitchen to know what is for dinner.",
+    "ingredients": [
+      {"name":"Rice","quantity":1,"unit":"cup","price":18},
+      {"name":"Garlic","quantity":4,"unit":"cloves","price":14},
+      {"name":"Cooking Oil","quantity":1,"unit":"tbsp","price":5},
+      {"name":"Salt","quantity":0.5,"unit":"tsp","price":3}
+    ],
+    "steps":["Cook rice.","Fry garlic.","Mix together."]
+  },
+  {
+    "id": "r010",
+    "title": "Onion Tomato Curry",
+    "timeMinutes": 20,
+    "price": 48,
+    "currency": "INR",
+    "seasonal": true,
+    "isContestEntry": true,
+    "story": "No fancy produce — just onion, tomato, and the spices already in the tin. The backbone of a lot of Indian home cooking.",
+    "ingredients": [
+      {"name":"Onion","quantity":2,"unit":"piece","price":14},
+      {"name":"Tomato","quantity":2,"unit":"piece","price":12},
+      {"name":"Turmeric Powder","quantity":0.5,"unit":"tsp","price":6},
+      {"name":"Red Chilli Powder","quantity":0.5,"unit":"tsp","price":8},
+      {"name":"Cooking Oil","quantity":1,"unit":"tbsp","price":5},
+      {"name":"Salt","quantity":0.5,"unit":"tsp","price":3}
+    ],
+    "steps":["Cook onion.","Add tomato.","Cook with spices."]
+  },
+  {
+    "id": "r011",
+    "title": "Chapati Dough",
+    "timeMinutes": 15,
+    "price": 22,
+    "currency": "INR",
+    "seasonal": false,
+    "isContestEntry": false,
+    "story": "Flour, water, a little oil. Learning this dough is how a lot of us learned to cook at all.",
+    "ingredients": [
+      {"name":"Wheat Flour","quantity":2,"unit":"cups","price":14},
+      {"name":"Salt","quantity":0.25,"unit":"tsp","price":2},
+      {"name":"Cooking Oil","quantity":1,"unit":"tsp","price":6}
+    ],
+    "steps":["Mix ingredients.","Add water.","Knead into dough."]
+  },
+  {
+    "id": "r012",
+    "title": "Poori Dough",
+    "timeMinutes": 20,
+    "price": 28,
+    "currency": "INR",
+    "seasonal": false,
+    "isContestEntry": false,
+    "story": "Stiffer than chapati dough, because it has to puff. Festival mornings start here.",
+    "ingredients": [
+      {"name":"Wheat Flour","quantity":2,"unit":"cups","price":14},
+      {"name":"Salt","quantity":0.25,"unit":"tsp","price":2},
+      {"name":"Cooking Oil","quantity":1,"unit":"tbsp","price":12}
+    ],
+    "steps":["Prepare stiff dough.","Roll.","Fry in oil."]
+  },
+  {
+    "id": "r013",
+    "title": "Sweet Milk Drink",
+    "timeMinutes": 5,
+    "price": 25,
+    "currency": "INR",
+    "seasonal": false,
+    "isContestEntry": false,
+    "story": "Warm milk, sugar, done. The drink you make when someone comes home late.",
+    "ingredients": [
+      {"name":"Milk","quantity":1,"unit":"cup","price":18},
+      {"name":"Sugar","quantity":2,"unit":"tsp","price":7}
+    ],
+    "steps":["Mix sugar into warm milk."]
+  },
+  {
+    "id": "r014",
+    "title": "Curd Dip",
+    "timeMinutes": 5,
+    "price": 30,
+    "currency": "INR",
+    "seasonal": true,
+    "isContestEntry": false,
+    "story": "Coriander in curd is a five-minute raita. Keep it next to anything fried.",
+    "ingredients": [
+      {"name":"Curd","quantity":1,"unit":"cup","price":18},
+      {"name":"Coriander Leaves","quantity":1,"unit":"tbsp","price":6},
+      {"name":"Salt","quantity":0.25,"unit":"tsp","price":2},
+      {"name":"Black Pepper","quantity":0.25,"unit":"tsp","price":4}
+    ],
+    "steps":["Mix all ingredients together."]
+  },
+  {
+    "id": "r015",
+    "title": "Mint Lemon Rice",
+    "timeMinutes": 20,
+    "price": 50,
+    "currency": "INR",
+    "seasonal": true,
+    "isContestEntry": true,
+    "story": "Mint from the bunch you bought for chutney, lemon from the fruit bowl, rice from last night. A green, sharp plate.",
+    "creatorName": "Leaf & Lemon",
+    "orderLinks": [
+      {"label": "Swiggy", "url": "https://www.swiggy.com"}
+    ],
+    "ingredients": [
+      {"name":"Rice","quantity":1,"unit":"cup","price":18},
+      {"name":"Mint Leaves","quantity":1,"unit":"bunch","price":15},
+      {"name":"Lemon","quantity":1,"unit":"piece","price":8},
+      {"name":"Cooking Oil","quantity":1,"unit":"tbsp","price":5},
+      {"name":"Salt","quantity":0.5,"unit":"tsp","price":4}
+    ],
+    "steps":["Cook rice.","Blend mint.","Mix with lemon and rice."]
+  }
+]
