@@ -1,0 +1,15 @@
+{
+  "title": "Weekend Cook-Off",
+  "rules": [
+    "Use at most 8 pantry ingredients.",
+    "Submit a recipe that is already on the platform (marked as a contest entry).",
+    "Scoring is provided by the contest organisers — this page only displays results.",
+    "External ordering and payments are not part of the contest."
+  ],
+  "leaderboard": [
+    { "rank": 1, "name": "Asha K.", "score": 94, "recipeId": "r006", "recipeTitle": "Paneer Bhurji" },
+    { "rank": 2, "name": "Rohan M.", "score": 88, "recipeId": "r015", "recipeTitle": "Mint Lemon Rice" },
+    { "rank": 3, "name": "Meera S.", "score": 85, "recipeId": "r010", "recipeTitle": "Onion Tomato Curry" },
+    { "rank": 4, "name": "Irfan P.", "score": 79, "recipeId": "r007", "recipeTitle": "Tofu Stir Fry" }
+  ]
+}
