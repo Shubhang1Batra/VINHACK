@@ -1,0 +1,12 @@
+[
+  { "from": "Butter", "to": "Cooking Oil" },
+  { "from": "Cooking Oil", "to": "Butter" },
+  { "from": "Milk", "to": "Almond Milk" },
+  { "from": "Maida", "to": "Wheat Flour" },
+  { "from": "Sugar", "to": "Jaggery" },
+  { "from": "Paneer", "to": "Tofu" },
+  { "from": "Potato", "to": "Sweet Potato" },
+  { "from": "Coriander Leaves", "to": "Mint Leaves" },
+  { "from": "Green Chilli", "to": "Red Chilli Powder" },
+  { "from": "Lemon", "to": "Vinegar" }
+]

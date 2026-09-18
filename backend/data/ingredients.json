@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Rice",
+    "avgPrice": 60,
+    "unit": "kg",
+    "seasonal": false,
+    "substitutes": [
+      "Poha"
+    ]
+  },
+  {
+    "name": "Wheat Flour",
+    "avgPrice": 45,
+    "unit": "kg",
+    "seasonal": false,
+    "substitutes": [
+      "Maida"
+    ]
+  },
+  {
+    "name": "Maida",
+    "avgPrice": 50,
+    "unit": "kg",
+    "seasonal": false,
+    "substitutes": [
+      "Wheat Flour"
+    ]
+  },
+  {
+    "name": "Sugar",
+    "avgPrice": 48,
+    "unit": "kg",
+    "seasonal": false,
+    "substitutes": [
+      "Jaggery"
+    ]
+  },
+  {
+    "name": "Jaggery",
+    "avgPrice": 70,
+    "unit": "kg",
+    "seasonal": false,
+    "substitutes": [
+      "Sugar"
+    ]
+  },
+  {
+    "name": "Salt",
+    "avgPrice": 25,
+    "unit": "kg",
+    "seasonal": false,
+    "substitutes": []
+  },
+  {
+    "name": "Turmeric Powder",
+    "avgPrice": 220,
+    "unit": "kg",
+    "seasonal": false,
+    "substitutes": []
+  },
+  {
+    "name": "Red Chilli Powder",
+    "avgPrice": 320,
+    "unit": "kg",
+    "seasonal": false,
+    "substitutes": [
+      "Green Chilli"
+    ]
+  },
+  {
+    "name": "Coriander Powder",
+    "avgPrice": 240,
+    "unit": "kg",
+    "seasonal": false,
+    "substitutes": []
+  },
+  {
+    "name": "Cumin Seeds",
+    "avgPrice": 500,
+    "unit": "kg",
+    "seasonal": false,
+    "substitutes": [
+      "Coriander Powder"
+    ]
+  },
+  {
+    "name": "Mustard Seeds",
+    "avgPrice": 180,
+    "unit": "kg",
+    "seasonal": false,
+    "substitutes": []
+  },
+  {
+    "name": "Black Pepper",
+    "avgPrice": 700,
+    "unit": "kg",
+    "seasonal": false,
+    "substitutes": [
+      "Red Chilli Powder"
+    ]
+  },
+  {
+    "name": "Cooking Oil",
+    "avgPrice": 160,
+    "unit": "litre",
+    "seasonal": false,
+    "substitutes": [
+      "Butter"
+    ]
+  },
+  {
+    "name": "Butter",
+    "avgPrice": 550,
+    "unit": "kg",
+    "seasonal": false,
+    "substitutes": [
+      "Cooking Oil"
+    ]
+  },
+  {
+    "name": "Ghee",
+    "avgPrice": 700,
+    "unit": "litre",
+    "seasonal": false,
+    "substitutes": [
+      "Butter"
+    ]
+  },
+  {
+    "name": "Milk",
+    "avgPrice": 60,
+    "unit": "litre",
+    "seasonal": false,
+    "substitutes": [
+      "Almond Milk"
+    ]
+  },
+  {
+    "name": "Almond Milk",
+    "avgPrice": 220,
+    "unit": "litre",
+    "seasonal": false,
+    "substitutes": [
+      "Milk"
+    ]
+  },
+  {
+    "name": "Curd",
+    "avgPrice": 80,
+    "unit": "kg",
+    "seasonal": false,
+    "substitutes": [
+      "Milk"
+    ]
+  },
+  {
+    "name": "Paneer",
+    "avgPrice": 380,
+    "unit": "kg",
+    "seasonal": false,
+    "substitutes": [
+      "Tofu"
+    ]
+  },
+  {
+    "name": "Tofu",
+    "avgPrice": 280,
+    "unit": "kg",
+    "seasonal": false,
+    "substitutes": [
+      "Paneer"
+    ]
+  },
+  {
+    "name": "Tomato",
+    "avgPrice": 40,
+    "unit": "kg",
+    "seasonal": true,
+    "substitutes": [
+      "Tomato Puree"
+    ]
+  },
+  {
+    "name": "Onion",
+    "avgPrice": 35,
+    "unit": "kg",
+    "seasonal": true,
+    "substitutes": []
+  },
+  {
+    "name": "Potato",
+    "avgPrice": 30,
+    "unit": "kg",
+    "seasonal": false,
+    "substitutes": [
+      "Sweet Potato"
+    ]
+  },
+  {
+    "name": "Sweet Potato",
+    "avgPrice": 50,
+    "unit": "kg",
+    "seasonal": true,
+    "substitutes": [
+      "Potato"
+    ]
+  },
+  {
+    "name": "Green Chilli",
+    "avgPrice": 80,
+    "unit": "kg",
+    "seasonal": true,
+    "substitutes": [
+      "Red Chilli Powder"
+    ]
+  },
+  {
+    "name": "Ginger",
+    "avgPrice": 120,
+    "unit": "kg",
+    "seasonal": true,
+    "substitutes": [
+      "Ginger Paste"
+    ]
+  },
+  {
+    "name": "Garlic",
+    "avgPrice": 180,
+    "unit": "kg",
+    "seasonal": false,
+    "substitutes": [
+      "Garlic Paste"
+    ]
+  },
+  {
+    "name": "Coriander Leaves",
+    "avgPrice": 20,
+    "unit": "bunch",
+    "seasonal": true,
+    "substitutes": [
+      "Mint Leaves"
+    ]
+  },
+  {
+    "name": "Mint Leaves",
+    "avgPrice": 15,
+    "unit": "bunch",
+    "seasonal": true,
+    "substitutes": [
+      "Coriander Leaves"
+    ]
+  },
+  {
+    "name": "Lemon",
+    "avgPrice": 8,
+    "unit": "piece",
+    "seasonal": true,
+    "substitutes": [
+      "Vinegar"
+    ]
+  }
+]
