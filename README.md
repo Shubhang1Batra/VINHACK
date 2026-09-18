@@ -1,0 +1,1 @@
+Added the Sprint 1 ingredient dataset and substitution data under backend/data/. ingredients.json contains 30 common ingredients with prices, units, seasonality, and substitutes, while substitutions.json includes 10 common ingredient swaps for use in the picker and database seeding.
